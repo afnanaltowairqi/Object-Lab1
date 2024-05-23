@@ -26,8 +26,6 @@ let object= {
     },
     skills :{
         skillsOne:["one","two","three"],
-        skillsTwo:["one","two","three"],
-        skillsThree:["one","two","three"]
     }
 }
 //print user ob
