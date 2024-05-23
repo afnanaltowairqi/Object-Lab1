@@ -25,7 +25,7 @@ let object= {
         },
     },
     skills :{
-        skillsOne:["one","two","three"],
+        skillsOne:["one","two","three","four"],
     }
 }
 //print user ob
@@ -45,5 +45,4 @@ console.log(object.address);
 //print one of the keys inside the city object 
 console.log(object.address.cityone);
 //print one of the keys inside the city object 
-console.log(object.skills.skillsOne[1]);
-
+console.log(object.skills.skillsOne[2]);
